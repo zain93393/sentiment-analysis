@@ -1,42 +1,40 @@
-**Movie Sentiment Analysis**
+# Movie Sentiment Analysis
 
-**Overview**
+## Overview
 This project aims to perform sentiment analysis on movie reviews using natural language processing (NLP) techniques. The goal is to classify movie reviews as either positive or negative based on their content.
 
-**Usage**
-You can access the Movie Sentiment Analysis app through the following link: Movie Sentiment Analysis App
+## Usage
+You can access the Movie Sentiment Analysis app through the following link: [Movie Sentiment Analysis App](link_to_your_app_here)
 
-**Features**
-Allows users to input their own movie reviews.
-Classifies the sentiment of the inputted reviews as either positive or negative.
-Provides visualization of the sentiment analysis results.
+## Features
+- Allows users to input their own movie reviews.
+- Classifies the sentiment of the inputted reviews as either positive or negative.
+- Provides visualization of the sentiment analysis results.
 
-**Technologies Used**
-Python
-Streamlit
-NLTK
-Scikit-learn
+## Technologies Used
+- Python
+- Streamlit
+- NLTK
+- Scikit-learn
 
-**Installation**
+## Installation
 To run the project locally, follow these steps:
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 git clone zain93393/sentiment-analysis
 
-Navigate to the project directory:
+3. Navigate to the project directory:
 cd movie-sentiment-analysis
 
-Install the required dependencies:
+3. Install the required dependencies:
 pip install -r requirements.txt
 
-Run the Streamlit app:
+4. Run the Streamlit app:
 streamlit run app.py
 
-Access the app through your web browser at http://localhost:8501.
+5. Access the app through your web browser at [http://localhost:8501](http://localhost:8501).
 
-****Contributors****
-Your Name
-Collaborator's Name
+## Contributors
+- Muhammad Zain ul Abideen
 
-
-**License**
+## License
 This project is licensed under the MIT License.
