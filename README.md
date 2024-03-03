@@ -4,7 +4,7 @@
 This project aims to perform sentiment analysis on movie reviews using natural language processing (NLP) techniques. The goal is to classify movie reviews as either positive or negative based on their content.
 
 ## Usage
-You can access the Movie Sentiment Analysis app through the following link: [Movie Sentiment Analysis App](link_to_your_app_here)
+You can access the Movie Sentiment Analysis app through the following link: [Movie Sentiment Analysis App](https://nlp-assignment-3.streamlit.app/)
 
 ## Features
 - Allows users to input their own movie reviews.
